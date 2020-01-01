@@ -51,16 +51,19 @@
 ```   
   // 1 - Git Clone
   
-  // 2 - Run the services (Be sure to have docker and docker-compose installed)
+  // 2 - Copy the .env.example and set the environment variables
+  cp .env.example .env
+  
+  // 3 - Run the services (Be sure to have docker and docker-compose installed)
   docker-compose up -d 
   
-  // 2 - Once the services are running, its time to install the dependencies
+  // 4 - Once the services are running, its time to install the dependencies
   yarn install
   
-  // 3 - Run the application 
+  // 5 - Run the application 
   yarn dev
   
-  // 4 - Run the application queue for the mail job
+  // 6 - Run the application queue for the mail job
   yarn queue-dev
   ```
   
@@ -68,7 +71,10 @@
 ```   
   // 1 - Git Clone
   
-  // 2 - Installing the project (Be sure to have installed the react native cli)
+  // 2 - Copy the .env.example and set the environment variables
+  cp .env.example .env
+  
+  // 3 - Installing the project (Be sure to have installed the react native cli)
 
    // If you're going to emulate with android - run this command 
    react-native run-android 
@@ -87,10 +93,13 @@
 ```   
   // 1 - Git Clone
   
-  // 2 - Installing the dependencies
+  // 2 - Copy the .env.example and set the environment variables
+  cp .env.example .env
+  
+  // 3 - Installing the dependencies
   yarn install
   
-  // 3 - Run the application (Be sure to have the API running locally)
+  // 4 - Run the application (Be sure to have the API running locally)
   yarn start
   
 ```

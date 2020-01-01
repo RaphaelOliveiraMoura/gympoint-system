@@ -43,6 +43,10 @@
  <br>
   To see the **api repository**, click here: [Gympoint Rest API](https://github.com/LauraBeatris/gympoint-api)
  <br>
+ 
+ Deployed Web Application: http://gympoint-react-app.herokuapp.com/ (Login = Seed Generated Admin)
+ <br>
+ Deployed Rest API: http://gympoint-api.lauradeveloper.com.br/
 
 ## :runner: Installation 
 

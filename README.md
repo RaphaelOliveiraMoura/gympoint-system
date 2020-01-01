@@ -27,7 +27,7 @@
 </p>
 
 ## :rocket: About the project
-  As a admin, you're able to see the list of students, registrations and plans, as well edting/creating new ones. Also, answer and see the help orders that're pending.
+  As a admin, you're able to see the list of students, registrations and plans, as well editing/creating new ones. Also, answer and see the help orders that're pending.
   <br>
  As a student, you're able to do checkins, help orders and also get to know what the intructors answered. Students're allowed to do only 5 checkins per week. 
   

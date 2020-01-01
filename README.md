@@ -81,7 +81,7 @@
    // If you're going to emulate with ios - run this command 
    react-native run-ios 
   
-  // 3 - Run the application (Be sure to have the API running locally)
+  // 4 - Run the application (Be sure to have the API running locally)
     yarn start
   
   // If usually use have some error, try it 

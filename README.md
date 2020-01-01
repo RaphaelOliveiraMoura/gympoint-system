@@ -69,13 +69,17 @@
   // 1 - Git Clone
   
   // 2 - Installing the project (Be sure to have installed the react native cli)
- react-native run-android
+
+   // If you're going to emulate with android - run this command 
+   react-native run-android 
+   // If you're going to emulate with ios - run this command 
+   react-native run-ios 
   
   // 3 - Run the application (Be sure to have the API running locally)
-  yarn start
+    yarn start
   
   // If usually use have some error, try it 
-  yarn start --reset-cache
+    yarn start --reset-cache
   
 ```
 

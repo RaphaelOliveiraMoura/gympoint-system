@@ -8,7 +8,6 @@
 
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauraBeatris/gympoint-api?color=%23EE4D64">
 
   <a href="https://www.linkedin.com/in/laurabeatris/">
     <img alt="Made by Laura Beatris" src="https://img.shields.io/badge/made%20by-laurabeatris-%23EE4D64">
@@ -59,7 +58,10 @@
   yarn install
   
   // 3 - Run the application 
-  yarn start
+  yarn dev
+  
+  // 4 - Run the application queue for the mail job
+  yarn queue-dev
   ```
   
 - Mobile 

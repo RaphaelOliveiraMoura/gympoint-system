@@ -65,7 +65,7 @@ function HelpOrder({ theme, isFocused, navigation }) {
   async function handleNextPage() {
     setPage(page + 1);
     const response = await api.get(
-      `students/${studentId}/help-orders?page=${page}`
+      'students/${studentId}/help-orders?page=1'
     );
 
     const data = formatDate(response.data);

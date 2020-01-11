@@ -68,15 +68,9 @@ function Checkin({ theme, isFocused }) {
       const data = formatDate(response.data);
       return setCheckins(data);
     } catch (err) {
-      const { contentMessage } = JSON.parse(err.response.data.error.message);
-
-      if (contentMessage) {
-        return Alert.alert('Erro', contentMessage);
-      }
-
       return Alert.alert(
         'Erro',
-        'Não foi possivel atualizar a lista de checkins'
+        'Você já realizou 5 checkins nos últimos 7 dias'
       );
     } finally {
       setRefreshing(false);

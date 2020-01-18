@@ -37,7 +37,7 @@
     - Trainings made by the Personal Trainer
     - Students can access some datas that show how they've been improving in their trainings
  
- To see the **mobile repository**, click here: [Gympoint Mobile](https://github.com/LauraBeatris/gympoint-mobile)
+ To see the **mobile repository** (Only available for Android), click here: [Gympoint Mobile](https://github.com/LauraBeatris/gympoint-mobile)
  <br>
   To see the **web repository**, click here: [Gympoint Web](https://github.com/LauraBeatris/gympoint-web)
  <br>
@@ -71,7 +71,7 @@
   yarn queue-dev
   ```
   
-- Mobile 
+- Mobile (Only available for android)
 ```   
   // 1 - Git Clone
   

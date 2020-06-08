@@ -16,7 +16,7 @@
   <img alt="License" src="https://img.shields.io/badge/licence-MIT-%23EE4D64">
 
   <a href="https://github.com/LauraBeatris/projects_store/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/LauraBeatris/gympoint-api?color=%23EE4D64">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/LauraBeatris/gympoint-system?color=%23EE4D64">
   </a>
 </p>
 
